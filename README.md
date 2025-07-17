@@ -52,4 +52,4 @@ weather-app/
 
 ## ✨ Author
 
-- [Amarnath Kumar](https://github.com/Amarsah15)
+- Made with ❤️ by [Amarnath Kumar](https://github.com/Amarsah15)
