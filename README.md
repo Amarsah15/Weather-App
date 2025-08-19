@@ -2,6 +2,10 @@
 
 A clean, responsive, and interactive **Weather App** built using **HTML**, **CSS**, and **JavaScript**. It allows users to get real-time weather updates for their current location or search weather details for any city.
 
+# Demo
+
+You can view the live demo of the Weather App [here](https://weather-app-blond-phi-56.vercel.app/).
+
 ## 🚀 Features
 
 - 🌎 Get weather data based on user's location (using Geolocation API)
@@ -35,6 +39,7 @@ weather-app/
 ## ⚙️ Setup Instructions
 
 1. Clone this repository:
+
    ```bash
    git clone https://github.com/Amarsah15/Weather-App.git
    cd weather-app
